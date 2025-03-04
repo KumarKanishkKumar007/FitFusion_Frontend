@@ -13,15 +13,6 @@ This is a fitness web application built using the MERN stack (MongoDB, Express.j
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-git clone <https://github.com/SanjanaSingh1818/FitFusion.git>
-
-
-2. Install dependencies using npm:
-   
-   npm install
-
-
 ## Usage
 
 To start the development server, run:
